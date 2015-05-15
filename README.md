@@ -19,3 +19,6 @@ And then execute:
 Trigger a new GIF by typing ```!animalsbeingjerks``` or ```!abj``` in chat.
 
 Chat users may need to adjust their Media settings in Slack chat in order to have the GIFs display automatically.
+
+## Links
+* [isis-plugin-animalsbeingjerks on RubyGems](https://rubygems.org/gems/isis-plugin-animalsbeingjerks)
